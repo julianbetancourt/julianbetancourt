@@ -9,4 +9,3 @@ I'm a software engineer based in Amsterdam, the Netherlands. I have been working
 ## :headphones: Spotify Playing
 
 [![Spotify](https://spotify-song.herokuapp.com/spotify)](https://open.spotify.com/user/juliian41)
-
