@@ -4,7 +4,7 @@ I'm a software engineer based in Amsterdam, the Netherlands. I have been working
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/juliian41) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/julian-betancourt) [![Website](https://img.shields.io/badge/website-blue?style=flat-square&logo=Next.js&logoColor=white)](https://julianbetancourt.co)
 
-## Tools I can levearage to solve problems include
+## Tools I can leverage to solve problems include
 
 ![ JavaScript](https://img.shields.io/badge/_JavaScript-black?style=for-the-badge&logo=javascript) ![typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
  ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5) ![css](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)
